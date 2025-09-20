@@ -16,7 +16,7 @@ l'objectif est de développer les fonctionnalités nécessaires pour gérer les 
 Pour cette première version de l’outil de gestion, il est demandé une interface très simple en ligne de commande. Cette interface devra permettre à l’utilisateur d’exécuter les différentes actions permises par l’outil et de saisir les données nécessaires à chaque action.
 Chaque action retournera les données demandées par l’utilisateur (pour les actions de consultation ou de recherche) ou alors soit une confirmation de la bonne exécution de l’action (OK) soit une erreur si l’action est incorrecte, avec une explication de l’erreur.
 
-L’outil doit permettre d’effectuer les actions suivantes :
+L’outil doit permettre d’effectuer les actions suivantes :\n
 1 Ajouter une nouvelle classe
 2 Afficher la liste des classes connues
 3 Rechercher une classe à partir de son code
