@@ -17,22 +17,22 @@ Pour cette première version de l’outil de gestion, il est demandé une interf
 Chaque action retournera les données demandées par l’utilisateur (pour les actions de consultation ou de recherche) ou alors soit une confirmation de la bonne exécution de l’action (OK) soit une erreur si l’action est incorrecte, avec une explication de l’erreur.
 
 L’outil doit permettre d’effectuer les actions suivantes :
- Ajouter une nouvelle classe
- Afficher la liste des classes connues
- Rechercher une classe à partir de son code
- Modifier une classe connue
- Supprimer une classe connue
- Ajouter une nouvelle salle
- Afficher la liste des salles connues
- Rechercher une salle à partir de son code
- Modifier une salle connue
- Supprimer une salle connue
- Ajouter une nouvelle réservation
- Afficher la liste des réservations connues
- Rechercher les réservations connues, validées ou en cours pour une même classe
- Rechercher les réservations connues, validées ou en cours pour une même salle
- Modifier l’état d’une réservation connue
- Supprimer une réservation connue
- Afficher l’emploi du temps d’une classe
- Afficher le planning d’occupation d’une salle
- Afficher la liste des salles les plus utilisées
+1 Ajouter une nouvelle classe
+2 Afficher la liste des classes connues
+3 Rechercher une classe à partir de son code
+4 Modifier une classe connue
+5 Supprimer une classe connue
+6 Ajouter une nouvelle salle
+7 Afficher la liste des salles connues
+8 Rechercher une salle à partir de son code
+9 Modifier une salle connue
+10 Supprimer une salle connue
+11 Ajouter une nouvelle réservation
+12 Afficher la liste des réservations connues
+13 Rechercher les réservations connues, validées ou en cours pour une même classe
+14 Rechercher les réservations connues, validées ou en cours pour une même salle
+15 Modifier l’état d’une réservation connue
+16 Supprimer une réservation connue
+17 Afficher l’emploi du temps d’une classe
+18 Afficher le planning d’occupation d’une salle
+19 Afficher la liste des salles les plus utilisées
